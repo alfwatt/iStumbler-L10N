@@ -19,7 +19,7 @@ ibtool can be used to extract strings from xib files
     // this works but isn't reccomended
     find . -name \*.xib | xargs -t -I '{}' ibtool --generate-strings-file '{}'_xib.strings '{}'
 
-    // after property setting up the projects
+    // after properly setting up the projects
     find . -name '*.strings' | cpio -pvdumB ../iStumbler-L10N/
 
     // TODO create a script to preview the changes in the running app
