@@ -62,11 +62,40 @@
 
 /* Information Element Values */
 
+"dwell" = "dwell";
+"set" = "set";
+"pattern" = "pattern";
+"index" = "index";
 "count" = "count";
 "period" = "period";
-"no protection" = "no protection";
+"window" = "window";
+"max" = "max";
+"remaining" = "remaining";
+"ch" = "ch";
+"ext" = "ext";
+"class" = "class";
+"coverage" = "coverage";
+"radix" = "radix";
+"flag" = "flag";
+"sets" = "sets";
+"modulus" = "modulus";
+"offset" = "offset";
+"random" = "random";
 "clients" = "clients";
-"channel usage" = "channel usage";
+"usage" = "usge";
 "avaliable" = "avaliable";
+"slow stations" = "slow stations";
+"use protection" = "user protection";
 "use barker" = "use barker";
-"Open" = "Open";
+"no protection" = "no protection";
+"transmit" = "transmit";
+"margin" = "margin";
+"power save" = "power save";
+"auto power save" = "auto power save";
+"11n only" = "11n only";
+"short GI 20MHz" = "short GI 20MHz";
+"short GI 40MHz" = "short GI 40MHz";
+"block ACK" = "block ACK";
+"long A-MSDU" = "long A-MSDU";
+"40MHz intolerant" = "40MHz intolerant";
+"L-SIG protection" = "L-SIG protection";
