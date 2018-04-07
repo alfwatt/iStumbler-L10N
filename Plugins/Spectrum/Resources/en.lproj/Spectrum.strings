@@ -5,9 +5,6 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Status"; ObjectID = "NPX-Tg-SQx"; */
 "NPX-Tg-SQx.paletteLabel" = "Status";
 
-/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "SEC-Ye-tbh"; */
-"SEC-Ye-tbh.title" = "Status";
-
 /* Class = "NSToolbarItem"; label = "Frequency Band"; ObjectID = "dxn-yV-b4E"; */
 "dxn-yV-b4E.label" = "Frequency Band";
 
