@@ -2,18 +2,18 @@
 
 "SSID" = "SSID";
 "Service Set IDentifier" = "Service Set IDentifier";
-"Basic Rates" = "Basic Rates";
+"Basic Rates" = "Tasas básicas";
 "Hopping" = "Hopping";
 "Frequency Hopping Paramters" = "Frequency Hopping Paramters";
-"Channel" = "Channel";
+"Channel" = "Canal";
 "Direct Sequence Spread Spectrum Channel" = "Direct Sequence Spread Spectrum Channel";
 "Coordination" = "Coordination";
 "Point Coordination Function Parameters" = "Point Coordination Function Parameters";
-"Traffic" = "Traffic";
+"Traffic" = "Tráfico";
 "Traffic Indication Map" = "Traffic Indication Map";
 "IBSS" = "IBSS";
 "Independant Basic Service Set" = "Independant Basic Service Set";
-"Country" = "Country";
+"Country" = "País";
 "Country Information" = "Country Information";
 "Hop Options" = "Hop Options";
 "Hopping Parameters" = "Hopping Parameters";
@@ -21,7 +21,7 @@
 "Hopping Table" = "Hopping Table";
 "Requested IEs" = "Requested IEs";
 "Probe Requested Information Elements" = "Probe Requested Information Elements";
-"Load" = "Load";
+"Load" = "Carga";
 "BSS Load and Admission Info" = "BSS Load and Admission Info";
 "Channel Access" = "Channel Access";
 "Enhanced Distributed Channel Access" = "Enhanced Distributed Channel Access";
@@ -30,13 +30,13 @@
 "Transmit Power Control Request" = "Transmit Power Control Request";
 "Power Report" = "Power Report";
 "Transmit Power Control Report" = "Transmit Power Control Report";
-"11b Protection" = "11b Protection";
+"11b Protection" = "Protección 11b";
 "Extended Rate Station Protection" = "Extended Rate Station Protection";
 "11n Capabilites" = "11n Capabilites";
 "High Throughput Capabilites" = "High Throughput Capabilites";
 "RSN" = "RSN";
 "Robust Secure Network" = "Robust Secure Network";
-"11n Rates" = "11n Rates";
+"11n Rates" = "Tasas 11n";
 "Extended Rates" = "Extended Rates";
 "Channel Report" = "Channel Report";
 "Access Point Channel Report" = "Access Point Channel Report";
@@ -58,16 +58,45 @@
 "11ac Power Envelope" = "11ac Power Envelope";
 "Very High Throughput Transmit Power Envelope" = "Very High Throughput Transmit Power Envelope";
 "Vendor Specific" = "Vendor Specific";
-"Reserved" = "Reserved";
+"Reserved" = "Reservado";
+
 
 /* Information Element Values */
 
+"dwell" = "dwell";
+"set" = "set";
+"pattern" = "pattern";
+"index" = "index";
 "count" = "count";
-"period" = "period";
-"no protection" = "no protection";
-"clients" = "clients";
-"channel usage" = "channel usage";
-"avaliable" = "avaliable";
+"period" = "período";
+"window" = "window";
+"max" = "max";
+"remaining" = "remaining";
+"ch" = "ch";
+"ext" = "ext";
+"class" = "class";
+"coverage" = "coverage";
+"radix" = "radix";
+"flag" = "flag";
+"sets" = "sets";
+"modulus" = "modulus";
+"offset" = "offset";
+"random" = "random";
+"clients" = "clientes";
+"usage" = "usge";
+"avaliable" = "disponible";
+"slow stations" = "slow stations";
+"use protection" = "user protection";
 "use barker" = "use barker";
-"Open" = "Open";
-
+"no protection" = "sin protección";
+"transmit" = "transmit";
+"margin" = "margin";
+"power save" = "power save";
+"auto power save" = "auto power save";
+"11n only" = "11n only";
+"short GI 20MHz" = "short GI 20MHz";
+"short GI 40MHz" = "short GI 40MHz";
+"block ACK" = "block ACK";
+"long A-MSDU" = "long A-MSDU";
+"40MHz intolerant" = "40MHz intolerant";
+"L-SIG protection" = "L-SIG protection";
