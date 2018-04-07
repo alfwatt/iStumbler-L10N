@@ -41,6 +41,10 @@ Not every string needs translating.
     "string" = "string";/*?*/"
 
 
+## Testing
+
+    defaults write net.istumbler AppleLanguages '("ES")'
+
 ## License
 
     MIT License

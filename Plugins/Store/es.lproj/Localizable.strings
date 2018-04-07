@@ -62,8 +62,5 @@
 /* Licesne Date */
 "Date" = "Fecha";
 
-/* License Timestamp */
-"Timestamp" = "Fecha";/**/
-
 /* License Signature */
 "Signature" = "Firma";
