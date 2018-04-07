@@ -47,9 +47,6 @@
 /* e.g. Would you like to install the license file: Example.istumblerlicense? */
 "Would you like to install the license file: %@?" = "¿Desea instalar el archivo de licencia: %@?";
 
-/* Anonymous */
-"Anonymous" = "Anonymous";/**/
-
 /* e.g. Licensed to Anonymous */
 "Licensed to %@" = "Licenciado a %@";
 
