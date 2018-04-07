@@ -1,41 +1,20 @@
-/* Plugin: Configuring */
-"Configuring" = "Configurando";
-
-/* Plugin: Connected */
-"Connected" = "Conectado";
-
-/* Plugin: Connecting */
-"Connecting" = "Connecting";/*!*/
-
-/* Device Info Title */
-"Device Info" = "Device Info";/*!*/
-
-/* Plugin: Disconnected */
-"Disconnected" = "Disconnected";/*!*/
-
-/* Plugin: Discovered */
-"Discovered" = "Discovered";/*!*/
-
-/* No Device Connected Label */
-"No Device Connected" = "No Device Connected";/*!*/
-
-/* Plugin: Plugged */
-"Plugged" = "Plugged";/*!*/
-
-/* Plugin: Store */
-"Store" = "Tienda";
-
-/* Plugin: Switching to #GHz */
-"Switching to" = "Cambiando a";
-
-/* Plugin: Unplugged */
-"Unplugged" = "Desenchufado";
-
 /* PluginName */
 "WiPry" = "WiPry";
 
 /* PluginPreferencesTitle */
 "WiPry Preferences" = "Preferencias de WiPry";
 
-/* PluginInspectorTitle */
-"WiPry Inspector" = "Inspector de WiPry";/**/
+/* e.g. PluginName: Configuring */
+"Configuring" = "Configurando";
+
+/* e.g. PluginName: Connected */
+"Connected" = "Conectado";
+
+/* e.g. PluginName: Unplugged */
+"Unplugged" = "Desenchufado";
+
+/* e.g. PluginName: Store */
+"Store" = "Tienda";
+
+/* e.g. PluginName: Switching to #GHz */
+"Switching to" = "Cambiando a";
