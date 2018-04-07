@@ -7,7 +7,7 @@
 "Frequency Hopping Paramters" = "Frequency Hopping Paramters";
 "Channel" = "Canal";
 "Direct Sequence Spread Spectrum Channel" = "Direct Sequence Spread Spectrum Channel";
-"Coordination" = "Coordination";
+"Coordination" = "Coordinación";
 "Point Coordination Function Parameters" = "Point Coordination Function Parameters";
 "Traffic" = "Tráfico";
 "Traffic Indication Map" = "Traffic Indication Map";
@@ -60,18 +60,17 @@
 "Vendor Specific" = "Vendor Specific";
 "Reserved" = "Reservado";
 
-
 /* Information Element Values */
 
 "dwell" = "dwell";
 "set" = "set";
 "pattern" = "pattern";
 "index" = "index";
-"count" = "count";
+"count" = "recuento";
 "period" = "período";
 "window" = "window";
-"max" = "max";
-"remaining" = "remaining";
+"max" = "máx";
+"remaining" = "restante";
 "ch" = "ch";
 "ext" = "ext";
 "class" = "class";
@@ -83,19 +82,19 @@
 "offset" = "offset";
 "random" = "random";
 "clients" = "clientes";
-"usage" = "usge";
+"usage" = "uso";
 "avaliable" = "disponible";
 "slow stations" = "slow stations";
-"use protection" = "user protection";
-"use barker" = "use barker";
+"use protection" = "use protection";
+"use barker" = "usar barker";
 "no protection" = "sin protección";
 "transmit" = "transmit";
 "margin" = "margin";
 "power save" = "power save";
 "auto power save" = "auto power save";
 "11n only" = "11n only";
-"short GI 20MHz" = "short GI 20MHz";
-"short GI 40MHz" = "short GI 40MHz";
+"short GI 20MHz" = "GI corto 20MHz";
+"short GI 40MHz" = "GI corto 40MHz";
 "block ACK" = "block ACK";
 "long A-MSDU" = "long A-MSDU";
 "40MHz intolerant" = "40MHz intolerant";
