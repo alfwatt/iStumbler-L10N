@@ -17,14 +17,8 @@
 /* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "31"; */
 "31.headerCell.title" = "Fecha";
 
-/* Class = "NSTableColumn"; headerCell.title = "C"; ObjectID = "32"; */
-"32.headerCell.title" = "C";/**/
-
 /* Class = "NSTableColumn"; headerCell.title = "Freq"; ObjectID = "33"; */
 "33.headerCell.title" = "Frec";
 
 /* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "34"; */
 "34.headerCell.title" = "#";
-
-/* Class = "NSDateFormatter"; ibShadowedDateFormat = "M/d – h:mm:ss a"; ObjectID = "39"; */
-"39.ibShadowedDateFormat" = "M/d – h:mm:ss a";/**/

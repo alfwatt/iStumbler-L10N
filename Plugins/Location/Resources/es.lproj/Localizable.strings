@@ -4,9 +4,6 @@
 /* PluginPreferencesTitle */
 "Location Preferences" = "Preferencias de ubicación";
 
-/* PluginInspectorTitle */
-"Location Inspector" = "Inspector de ubicación";/**/
-
 /* Current Location */
 "Current Location" = "Ubicación actual";
 
