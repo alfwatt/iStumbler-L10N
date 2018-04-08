@@ -72,7 +72,7 @@
 "173.title" = "Rehacer";
 
 /* Class = "NSMenuItem"; title = "Plugin Help"; ObjectID = "211"; */
-"211.title" = "Ayuda de plugin";
+"211.title" = "Ayuda de complemento";
 
 /* Class = "NSMenuItem"; title = "Inspector"; ObjectID = "227"; */
 "227.title" = "Inspector";
@@ -165,10 +165,10 @@
 "80v-kD-sKe.title" = "Buscar actualizaciones…";
 
 /* Class = "NSMenuItem"; title = "Plugin List"; ObjectID = "LiF-bB-Gmq"; */
-"LiF-bB-Gmq.title" = "Lista de plugin";
+"LiF-bB-Gmq.title" = "Lista de complemento";
 
 /* Class = "NSMenuItem"; title = "Plugin"; ObjectID = "Mjn-ae-s4i"; */
-"Mjn-ae-s4i.title" = "Plugin";
+"Mjn-ae-s4i.title" = "Complemento";
 
 /* Class = "NSMenuItem"; title = "WiPry"; ObjectID = "OS2-Pd-QKt"; */
 "OS2-Pd-QKt.title" = "WiPry";
