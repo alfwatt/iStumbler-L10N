@@ -57,7 +57,7 @@
 "HmO-ne-2Ne.paletteLabel" = "Información";
 
 /* Class = "NSTextFieldCell"; title = "When Location Tracking is enabled the location plugin will record all movement of your computer, when you export the location list a track will be created on the map."; ObjectID = "L5K-YW-wn6"; */
-"L5K-YW-wn6.title" = "Cuando seguimiento de ubicación está activado el plugin Location registrará todos los movimientos de su equipo, cuando exporta la lista de ubicaciones se creará el recorrido en el mapa.";
+"L5K-YW-wn6.title" = "Cuando seguimiento de ubicación está activado el complemento Ubicación registrará todos los movimientos de su equipo, cuando exporta la lista de ubicaciones se creará el recorrido en el mapa.";
 
 /* Class = "NSToolbarItem"; label = "Services"; ObjectID = "M8H-E1-deo"; */
 "M8H-E1-deo.label" = "Servicios";
