@@ -92,7 +92,7 @@
 "margin" = "margin";
 "power save" = "power save";
 "auto power save" = "auto power save";
-"11n only" = "11n only";
+"11n only" = "solo 11n";
 "short GI 20MHz" = "GI corto 20MHz";
 "short GI 40MHz" = "GI corto 40MHz";
 "block ACK" = "block ACK";
