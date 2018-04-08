@@ -1,3 +1,9 @@
+/* PluginName */
+"Wi-Fi" = "Wi-Fi";
+
+/* PluginPreferencesTitle */
+"Wi-Fi Preferences" = "Wi-Fi Preferences";
+
 /* No comment provided by engineer. */
 "802.11" = "802.11";
 
@@ -64,9 +70,6 @@
 /* No comment provided by engineer. */
 "vendor" = "vendor";
 
-/* No comment provided by engineer. */
-"warnings" = "warnings";
-
 /* Monitor Window Title */
 "Wi-Fi Network Monitor" = "Wi-Fi Network Monitor";
 
@@ -74,16 +77,4 @@
 "Wi-Fi Networks" = "Wi-Fi Networks";
 
 /* No comment provided by engineer. */
-"Wi-Fi Scan" = "Wi-Fi Scan";
-
-/* No comment provided by engineer. */
 "width" = "width";
-
-/* PluginName */
-"Wi-Fi" = "Wi-Fi";
-
-/* PluginPreferencesTitle */
-"Wi-Fi Preferences" = "Wi-Fi Preferences";
-
-/* PluginInspectorTitle */
-"Wi-Fi Inspector" = "Wi-Fi Inspector";/*!*/

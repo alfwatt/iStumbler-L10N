@@ -1,10 +1,4 @@
 
-/* Class = "NSTabViewItem"; label = "Samples"; ObjectID = "5"; */
-"5.label" = "Samples";
-
-/* Class = "NSTabViewItem"; label = "Properties"; ObjectID = "6"; */
-"6.label" = "Properties";
-
 /* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "26"; */
 "26.headerCell.title" = "Level";
 
@@ -32,20 +26,5 @@
 /* Class = "NSTableColumn"; headerCell.title = "#"; ObjectID = "34"; */
 "34.headerCell.title" = "#";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
-"35.title" = "Text Cell";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "36"; */
-"36.title" = "Text Cell";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "37"; */
-"37.title" = "Text Cell";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "38"; */
-"38.title" = "Text Cell";
-
 /* Class = "NSDateFormatter"; ibShadowedDateFormat = "M/d – h:mm:ss a"; ObjectID = "39"; */
 "39.ibShadowedDateFormat" = "M/d – h:mm:ss a";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "44"; */
-"44.title" = "Text Cell";

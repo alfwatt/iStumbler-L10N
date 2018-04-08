@@ -1,3 +1,9 @@
+/* PluginName */
+"Wi-Fi" = "Wi-Fi";
+
+/* PluginPreferencesTitle */
+"Wi-Fi Preferences" = "Preferencias de Wi-Fi";
+
 /* No comment provided by engineer. */
 "802.11" = "802.11";
 
@@ -14,7 +20,7 @@
 "bssid" = "bssid";
 
 /* bytes unit (8 bits) */
-"bytes" = "bytes";/**/
+"bytes" = "bytes";
 
 /* No comment provided by engineer. */
 "channel" = "canal";
@@ -64,9 +70,6 @@
 /* No comment provided by engineer. */
 "vendor" = "proveedor";
 
-/* No comment provided by engineer. */
-"warnings" = "warnings";/**/
-
 /* Monitor Window Title */
 "Wi-Fi Network Monitor" = "Wi-Fi Network Monitor";/**/
 
@@ -74,22 +77,4 @@
 "Wi-Fi Networks" = "redes Wi-Fi";
 
 /* No comment provided by engineer. */
-"Wi-Fi Scan" = "Wi-Fi Scan";/**/
-
-/* No comment provided by engineer. */
 "width" = "ancho";
-
-/* */
-"Wi-Fi Scan" = "Wi-Fi Scan";
-
-/* PluginName */
-"Wi-Fi" = "Wi-Fi";
-
-/* PluginPreferencesTitle */
-"Wi-Fi Preferences" = "Preferencias de Wi-Fi";
-
-/* PluginInspectorTitle */
-"Wi-Fi Preferences" = "Preferencias Wi-Fi";
-
-/* PluginInspectorTitle */
-"Wi-Fi Inspector" = "Inspector Wi-Fi";/**/
