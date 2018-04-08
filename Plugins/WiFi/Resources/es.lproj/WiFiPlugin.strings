@@ -51,7 +51,7 @@
 "100400.title" = "Cuando ninguna red está seleccionada:";
 
 /* Class = "NSTextFieldCell"; title = "The WiFi plugin can automatically select the best network each time it samples."; ObjectID = "100402"; */
-"100402.title" = "El plugin WiFi puede seleccionar automáticamente la mejor red cada vez que muestrea.";
+"100402.title" = "El complemento Wi-Fi puede seleccionar automáticamente la mejor red cada vez que muestrea.";
 
 /* Class = "NSTextFieldCell"; title = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time"; ObjectID = "100415"; */
 "100415.title" = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time";

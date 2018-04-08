@@ -51,7 +51,7 @@
 "100400.title" = "When no network is selected:";
 
 /* Class = "NSTextFieldCell"; title = "The WiFi plugin can automatically select the best network each time it samples."; ObjectID = "100402"; */
-"100402.title" = "The WiFi plugin can automatically select the best network each time it samples.";
+"100402.title" = "The Wi-Fi plugin can automatically select the best network each time it samples.";
 
 /* Class = "NSTextFieldCell"; title = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time"; ObjectID = "100415"; */
 "100415.title" = "Thursday, April 1, 1976 12:00:00 PM Pacific Standard Time";
